@@ -1,0 +1,10 @@
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\bin\Debug\LineChartLegendByGroupWFApp.exe.config
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\bin\Debug\LineChartLegendByGroupWFApp.exe
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\bin\Debug\LineChartLegendByGroupWFApp.pdb
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.csproj.AssemblyReference.cache
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.Form.resources
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.Properties.Resources.resources
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.csproj.GenerateResource.cache
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.csproj.CoreCompileInputs.cache
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.exe
+C:\Users\sicel\Desktop\Csharp\LineChartLegendByGroupWFApp\obj\Debug\LineChartLegendByGroupWFApp.pdb
