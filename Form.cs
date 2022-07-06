@@ -52,6 +52,35 @@ namespace LineChartLegendByGroupWFApp
                 cs.BorderWidth = 5;
 
             }
+
+            // Color the datagridview based on cell value
+           
+                foreach (DataGridViewRow row in dataGridView.Rows)
+                {
+                    if (row.Cells["Registration Type"].Value.ToString() == "By Phone")
+                    {
+                        row.Cells["Registration Type"].Style.BackColor = Color.Green;
+                    }
+                else if (row.Cells["Registration Type"].Value.ToString() == "By Post")
+                {
+                    //row.Cells["Registration Type"].Style.BackColor = Color.LightSalmon;
+                    row.DefaultCellStyle.BackColor = Color.Salmon;
+                }
+                else if (row.Cells["Registration Type"].Value.ToString() == "Email")
+                {
+                    row.Cells["Registration Type"].Style.BackColor = Color.SkyBlue;
+                }
+                else if (row.Cells["Registration Type"].Value.ToString() == "Online")
+                {
+                    row.DefaultCellStyle.BackColor = Color.Yellow;
+                }
+                else if (row.Cells["Registration Type"].Value.ToString() == "In Person")
+                {
+                    row.Cells["Registration Type"].Style.BackColor = Color.MediumPurple;
+                }
+
+            }
+            
         }
     }
 }
