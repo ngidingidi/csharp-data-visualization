@@ -6,4 +6,4 @@ This tutorial displays fictional customer registration data using a datagridview
 You can check out the video here:
 https://www.youtube.com/watch?v=rZ9QzUMOQJs
 
-![My Image](img/chart.PNGchart.PNG)
+![My Image](img/chart.PNG)
